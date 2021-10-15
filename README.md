@@ -1,2 +1,9 @@
-# Operacii-so-Vektori-2D
-SFML imlementacija za operacii so vektori
+# Операции со вектори во 2Д Декартов Координатен систем/простор.
+
+# Библиотека
+- SFML
+
+# Платформи
+- macOS (Работи на Big Sur).
+- Linux (Тестирање треба).
+- Windows (Тестирање треба).
