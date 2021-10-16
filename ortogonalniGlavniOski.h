@@ -1,0 +1,14 @@
+//
+// Created by snajdovski on 16.10.21.
+//
+
+#ifndef OPERACIISOVEKTORI_ORTOGONALNIGLAVNIOSKI_H
+#define OPERACIISOVEKTORI_ORTOGONALNIGLAVNIOSKI_H
+
+
+//TODO
+
+class ortogonalniGlavniOski{
+
+};
+#endif //OPERACIISOVEKTORI_ORTOGONALNIGLAVNIOSKI_H
